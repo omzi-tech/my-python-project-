@@ -1,0 +1,5 @@
+num1 = input ("enter the number "  )
+num2 = input (" enter the number ")
+num3 = input (" enter the number ")
+total = int(num1) * int( num2) * int( num3)
+print (num1,"*",num2 ,"*",num3, "=",total)
